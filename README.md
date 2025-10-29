@@ -25,7 +25,7 @@ Using Python, I derived the Schrödinger wave equations and plotted the probabil
   - [1D Box Notebook](https://github.com/kavetisanjana421-source/particle_in_a_1D_box/blob/main/Particle_in_a__1D__box%20(2).ipynb)  
   - [2D Box Notebook](https://github.com/kavetisanjana421-source/particle_in_a_1D_box/blob/main/Copy_of_particle_in_a_2D_box.ipynb)  
 
-## About
+## Conclusion
 I made this project as part of my learning in Quantum Mechanics and Python.  
 It helped me understand how mathematical equations translate into visual patterns.
 I thank my physics teacher,(Dr.Rekha Dom), for inspiring me to connect physcics concepts with python.
