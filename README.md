@@ -22,7 +22,7 @@ Using Python, I derived the Schrödinger wave equations and plotted the probabil
 
 ## How to View
 - Open the notebooks directly here:  
-  - [1D Box Notebook](https://github.com/kavetisanjana421-source/particle_in_a_1D_box/blob/main/Particle_in_a_1D_box.ipynb)  
+  - [1D Box Notebook](https://github.com/kavetisanjana421-source/particle_in_a_1D_box/blob/main/Particle_in_a__1D__box%20(2).ipynb)  
   - [2D Box Notebook](https://github.com/kavetisanjana421-source/particle_in_a_1D_box/blob/main/Copy_of_particle_in_a_2D_box.ipynb)  
 
 ## About
