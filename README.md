@@ -28,4 +28,4 @@ Using Python, I derived the Schrödinger wave equations and plotted the probabil
 ## Conclusion
 I made this project as part of my learning in Quantum Mechanics and Python.  
 It helped me understand how mathematical equations translate into visual patterns.
-I thank my physics teacher,(Dr.Rekha Dom), for inspiring me to connect physcics concepts with python.
+I thank my physics teacher,(Dr.Rekha Dom), for inspiring me to connect physics concepts with python.
